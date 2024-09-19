@@ -1,2 +1,3 @@
 # carla_platoon
 platoon_motion_plan_control projects
+此库包含carla中6车编队控制系统的有效性验证。您可以运行以重现我们的编队结果。
